@@ -1,7 +1,9 @@
 # Pertemuan 09 - List dan Pengolahan Data Numerik
 
 Nama: Ririn Setiarini
+
 NIM: 2225250159
+
 Kelas: 3E
 
 ## Tujuan
